@@ -1,0 +1,4 @@
+Error: asdasd (LogFileMixin)
+Sucess: que daora (LogFileMixin)
+Sucess: Galaxy S esta ligado (Smartphone)
+Error: Iphone esta desligado (Smartphone)
